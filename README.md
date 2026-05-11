@@ -28,7 +28,7 @@ The project utilizes the **[Daily Financial News for Stock Market Prediction](ht
    pip install -r requirements.txt
 3. **Run the Streamlit app:**
     ```bash
-   pip install -r requirements.txt
+   streamlit run app.py
 
 ### 📈 Methodology
 1. **Exploratory Data Analysis (EDA):** Visualizing class distribution and headline patterns using Matplotlib/Seaborn.
